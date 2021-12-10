@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firststring">Итоги обучения</string>
+    <string name="sait">Сайт</string>
+    <string name="contact">Контакты</string>
+    <string name="spisok">Изучил:\n1. Основы синтаксиса языка программирования Kotlin\n2. Функции и переменные\n3. Массивы и коллекции\n4. ООП: классы и объекты\n5. Принципы работы в IDE (Android Studio)\n6. Построение Activity в xml\n7. Создание android приложения с последующим экспортированием в apk\n8. Подключение службы git и Github</string>
+    <string name="back">Назад</string>
+    <string name="contacts">Мои Контакты</string>
+    <string name="mail">raif00@mail.ru</string>
+    <string name="telegram">raifchiki</string>
+</resources>
